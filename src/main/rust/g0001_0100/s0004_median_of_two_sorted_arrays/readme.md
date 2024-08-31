@@ -1,5 +1,5 @@
-[![](https://img.shields.io/github/stars/LeetCode-in-Elixir/LeetCode-in-Elixir?label=Stars&style=flat-square)](https://github.com/LeetCode-in-Elixir/LeetCode-in-Elixir)
-[![](https://img.shields.io/github/forks/LeetCode-in-Elixir/LeetCode-in-Elixir?label=Fork%20me%20on%20GitHub%20&style=flat-square)](https://github.com/LeetCode-in-Elixir/LeetCode-in-Elixir/fork)
+[![](https://img.shields.io/github/stars/LeetCode-in-Rust/LeetCode-in-Rust?label=Stars&style=flat-square)](https://github.com/LeetCode-in-Rust/LeetCode-in-Rust)
+[![](https://img.shields.io/github/forks/LeetCode-in-Rust/LeetCode-in-Rust?label=Fork%20me%20on%20GitHub%20&style=flat-square)](https://github.com/LeetCode-in-Rust/LeetCode-in-Rust/fork)
 
 ## 4\. Median of Two Sorted Arrays
 

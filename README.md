@@ -34,6 +34,7 @@
 | 0003 |[Longest Substring Without Repeating Characters](src/main/rust/g0001_0100/s0003_longest_substring_without_repeating_characters)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0020 |[Valid Parentheses](src/main/rust/g0001_0100/s0020_valid_parentheses)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/rust/g0001_0100/s0005_longest_palindromic_substring)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 1 | 92.60
+| 0394 |[Decode String](src/main/rust/g0301_0400/s0394_decode_string)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0049 |[Group Anagrams](src/main/rust/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 0 | 100.00
 
 #### Udemy Binary Search
@@ -103,6 +104,7 @@
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/rust/g0001_0100/s0094_binary_tree_inorder_traversal)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0102 |[Binary Tree Level Order Traversal](src/main/rust/g0101_0200/s0102_binary_tree_level_order_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 1 | 80.61
+| 0543 |[Diameter of Binary Tree](src/main/rust/g0501_0600/s0543_diameter_of_binary_tree)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0226 |[Invert Binary Tree](src/main/rust/g0201_0300/s0226_invert_binary_tree)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0104 |[Maximum Depth of Binary Tree](src/main/rust/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 1 | 80.46
 | 0124 |[Binary Tree Maximum Path Sum](src/main/rust/g0101_0200/s0124_binary_tree_maximum_path_sum)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
@@ -130,6 +132,8 @@
 | 0198 |[House Robber](src/main/rust/g0101_0200/s0198_house_robber)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0070 |[Climbing Stairs](src/main/rust/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0064 |[Minimum Path Sum](src/main/rust/g0001_0100/s0064_minimum_path_sum)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+| 0300 |[Longest Increasing Subsequence](src/main/rust/g0201_0300/s0300_longest_increasing_subsequence)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
+| 1143 |[Longest Common Subsequence](src/main/rust/g1101_1200/s1143_longest_common_subsequence)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 4 | 78.99
 | 0072 |[Edit Distance](src/main/rust/g0001_0100/s0072_edit_distance)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 | 0010 |[Regular Expression Matching](src/main/rust/g0001_0100/s0010_regular_expression_matching)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 
@@ -147,6 +151,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0338 |[Counting Bits](src/main/rust/g0301_0400/s0338_counting_bits)| Easy | Dynamic_Programming, Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
 
 #### Udemy Design
 
@@ -273,6 +278,7 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0238 |[Product of Array Except Self](src/main/rust/g0201_0300/s0238_product_of_array_except_self)| Medium | Top_100_Liked_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 8 | 87.13
+| 0560 |[Subarray Sum Equals K](src/main/rust/g0501_0600/s0560_subarray_sum_equals_k)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Big_O_Time_O(n)_Space_O(n) | 7 | 96.88
 
 #### Day 6 String
 
@@ -283,6 +289,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0763 |[Partition Labels](src/main/rust/g0701_0800/s0763_partition_labels)| Medium | String, Hash_Table, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 1 | 97.06
 
 #### Day 8 String
 
@@ -358,6 +365,7 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0215 |[Kth Largest Element in an Array](src/main/rust/g0201_0300/s0215_kth_largest_element_in_an_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 10 | 90.24
+| 0347 |[Top K Frequent Elements](src/main/rust/g0301_0400/s0347_top_k_frequent_elements)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Big_O_Time_O(n\*log(n))_Space_O(k) | 0 | 100.00
 
 #### Day 21 Heap Priority Queue
 
@@ -479,6 +487,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 2 | 89.29
 
 #### Day 6 Breadth First Search Depth First Search
 
@@ -545,17 +554,20 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/rust/g0201_0300/s0300_longest_increasing_subsequence)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
 
 #### Day 17 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/rust/g1101_1200/s1143_longest_common_subsequence)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 4 | 78.99
 
 #### Day 18 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0072 |[Edit Distance](src/main/rust/g0001_0100/s0072_edit_distance)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
+| 0322 |[Coin Change](src/main/rust/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 3 | 100.00
 
 #### Day 19 Bit Manipulation
 
@@ -655,6 +667,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/rust/g0201_0300/s0300_longest_increasing_subsequence)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
 
 #### Day 4
 
@@ -848,17 +861,20 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/rust/g0201_0300/s0300_longest_increasing_subsequence)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
 
 #### Day 19
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 1143 |[Longest Common Subsequence](src/main/rust/g1101_1200/s1143_longest_common_subsequence)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 4 | 78.99
 | 0072 |[Edit Distance](src/main/rust/g0001_0100/s0072_edit_distance)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
 
 #### Day 20
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0322 |[Coin Change](src/main/rust/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 3 | 100.00
 
 #### Day 21
 
@@ -960,6 +976,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0739 |[Daily Temperatures](src/main/rust/g0701_0800/s0739_daily_temperatures)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 33 | 91.80
 
 #### Day 7
 
@@ -992,6 +1009,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 2 | 89.29
 
 #### Day 13
 
@@ -1229,6 +1247,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 2 | 89.29
 
 #### Day 13 Hashmap
 
@@ -1240,6 +1259,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0394 |[Decode String](src/main/rust/g0301_0400/s0394_decode_string)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 15 Heap
 
@@ -1286,6 +1306,8 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0543 |[Diameter of Binary Tree](src/main/rust/g0501_0600/s0543_diameter_of_binary_tree)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0437 |[Path Sum III](src/main/rust/g0401_0500/s0437_path_sum_iii)| Medium | Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 
 #### Day 8 Binary Search
 
@@ -1315,11 +1337,13 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0198 |[House Robber](src/main/rust/g0101_0200/s0198_house_robber)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0322 |[Coin Change](src/main/rust/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 3 | 100.00
 
 #### Day 13 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0416 |[Partition Equal Subset Sum](src/main/rust/g0401_0500/s0416_partition_equal_subset_sum)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 20 | 74.07
 | 0152 |[Maximum Product Subarray](src/main/rust/g0101_0200/s0152_maximum_product_subarray)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 1 | 71.23
 
 #### Day 14 Sliding Window/Two Pointer
@@ -1369,6 +1393,21 @@
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|--------
+| 1143 |[Longest Common Subsequence](src/main/rust/g1101_1200/s1143_longest_common_subsequence)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 4 | 78.99
+| 0763 |[Partition Labels](src/main/rust/g0701_0800/s0763_partition_labels)| Medium | String, Hash_Table, Greedy, Two_Pointers, Data_Structure_II_Day_7_String, Big_O_Time_O(n)_Space_O(1) | 1 | 97.06
+| 0739 |[Daily Temperatures](src/main/rust/g0701_0800/s0739_daily_temperatures)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 33 | 91.80
+| 0647 |[Palindromic Substrings](src/main/rust/g0601_0700/s0647_palindromic_substrings)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 0 | 100.00
+| 0560 |[Subarray Sum Equals K](src/main/rust/g0501_0600/s0560_subarray_sum_equals_k)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 7 | 96.88
+| 0543 |[Diameter of Binary Tree](src/main/rust/g0501_0600/s0543_diameter_of_binary_tree)| Easy | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0494 |[Target Sum](src/main/rust/g0401_0500/s0494_target_sum)| Medium | Array, Dynamic_Programming, Backtracking, Big_O_Time_O(n\*(sum+s))_Space_O(n\*(sum+s)) | 3 | 83.33
+| 0438 |[Find All Anagrams in a String](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Algorithm_II_Day_5_Sliding_Window, Programming_Skills_II_Day_12, Level_1_Day_12_Sliding_Window/Two_Pointer, Big_O_Time_O(n+m)_Space_O(1) | 2 | 89.29
+| 0437 |[Path Sum III](src/main/rust/g0401_0500/s0437_path_sum_iii)| Medium | Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0416 |[Partition Equal Subset Sum](src/main/rust/g0401_0500/s0416_partition_equal_subset_sum)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Level_2_Day_13_Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 20 | 74.07
+| 0394 |[Decode String](src/main/rust/g0301_0400/s0394_decode_string)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Level_1_Day_14_Stack, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0347 |[Top K Frequent Elements](src/main/rust/g0301_0400/s0347_top_k_frequent_elements)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Data_Structure_II_Day_20_Heap_Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(k) | 0 | 100.00
+| 0338 |[Counting Bits](src/main/rust/g0301_0400/s0338_counting_bits)| Easy | Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
+| 0322 |[Coin Change](src/main/rust/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(amount) | 3 | 100.00
+| 0300 |[Longest Increasing Subsequence](src/main/rust/g0201_0300/s0300_longest_increasing_subsequence)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Big_O_Time_O(n\*log_n)_Space_O(n) | 0 | 100.00
 | 0295 |[Find Median from Data Stream](src/main/rust/g0201_0300/s0295_find_median_from_data_stream)| Hard | Top_100_Liked_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 58 | 99.02
 | 0287 |[Find the Duplicate Number](src/main/rust/g0201_0300/s0287_find_the_duplicate_number)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Binary_Search_II_Day_5, Big_O_Time_O(n)_Space_O(n) | 4 | 98.95
 | 0283 |[Move Zeroes](src/main/rust/g0201_0300/s0283_move_zeroes)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Algorithm_I_Day_3_Two_Pointers, Programming_Skills_I_Day_6_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
